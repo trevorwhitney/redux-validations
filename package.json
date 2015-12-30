@@ -1,6 +1,6 @@
 {
   "name": "redux-validations",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Validations for React components using Redux and higer order component decorators",
   "private": false,
   "main": "./lib/redux-validations.js",
